@@ -76,9 +76,3 @@ Press enter to play (q to quit).
 * No external libraries required (uses `random`)
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** — free to use, modify, and share.
-
----
